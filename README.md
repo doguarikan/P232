@@ -30,7 +30,7 @@ int main()
   return 0;
 }
 ````````
-- expanded.c
+- expanded.c 
 ````````
 #include “P_header.h”
 int main()
